@@ -47,11 +47,10 @@ download the [Spring Tools Suite IDE](https://spring.io/tools)
 - Writing tests
 
 #### Spring-based Backend Set up
-![jietu20190130-170802](https://user-images.githubusercontent.com/31902939/52019087-af97f800-24ba-11e9-8122-933cc3a1fc86.jpg)
 
-
-![jietu20190215-172251](https://user-images.githubusercontent.com/31902939/52887680-9e9be780-3146-11e9-8513-d0e1b57a6429.jpg)
+(https://github.com/SajalGupta0709/Event-Registration/assets/48119538/6bccb8f2-d32e-48f6-bfcb-ed6f9ea17509)
 
 JUnit Tests Passed!
 
-![jietu20190215-165941](https://user-images.githubusercontent.com/31902939/52887681-9e9be780-3146-11e9-926a-a200cc6a9e65.jpg)
+(https://github.com/SajalGupta0709/Event-Registration/assets/48119538/1db17285-461e-46b7-baed-b57cc3f26a8a)
+
